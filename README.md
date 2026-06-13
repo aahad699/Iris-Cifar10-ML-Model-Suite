@@ -50,8 +50,3 @@ The notebook walks through data loading, preprocessing, train/test splitting, mo
 2. Install the required libraries if they are not already available.
 3. Update dataset paths if running outside Google Colab.
 4. Run the notebook cells from top to bottom.
-
-## Resume Bullets
-
-- Developed a machine learning model suite using Python, scikit-learn, and PyTorch to perform Iris regression/classification and CIFAR-10 image classification across classical ML and CNN-based deep learning workflows.
-- Implemented preprocessing, model training, evaluation, visualization, and artifact persistence with metrics including MSE, R2, accuracy, confusion matrix, precision, recall, and F1-score.
